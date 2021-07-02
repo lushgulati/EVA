@@ -1,2 +1,101 @@
 Base path: 'E:/Unity/2019.4.23f1/Editor/Data', plugins path 'E:/Unity/2019.4.23f1/Editor/Data/PlaybackEngines'
 Cmd: initializeCompiler
+Cmd: preprocess
+  insize=3333 outsize=1026 ok=1
+Cmd: preprocess
+  insize=2350 outsize=846 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1944 outsize=790 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1944 outsize=642 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2748 outsize=1114 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2748 outsize=1094 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1602 outsize=2254 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL LIGHTPROBE_SH _NORMALMAP pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1602 outsize=7206 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL LIGHTPROBE_SH _NORMALMAP pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1460 outsize=2070 kw=UNITY_PASS_FORWARDADD DIRECTIONAL _NORMALMAP pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1460 outsize=3770 kw=UNITY_PASS_FORWARDADD DIRECTIONAL _NORMALMAP pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1602 outsize=2254 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL LIGHTPROBE_SH _EMISSION _NORMALMAP pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1602 outsize=7310 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL LIGHTPROBE_SH _EMISSION _NORMALMAP pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: preprocessCompute
+  insize=5676 outsize=5678 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Impact.vfx(13): failed to open source file: 'Packages/com.unity.visualeffectgraph/Shaders/RenderPipeline/Universal/VFXDefines.hlsl'
+  api=4 insize=5678 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=4788 outsize=4790 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Impact.vfx(12): failed to open source file: 'Packages/com.unity.visualeffectgraph/Shaders/RenderPipeline/Universal/VFXDefines.hlsl'
+  api=4 insize=4790 outsize=0 ok=0
+Cmd: preprocess
+  insize=43440 outsize=606 ok=1
+Cmd: preprocessCompute
+  insize=4788 outsize=4790 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Impact.vfx(12): failed to open source file: 'Packages/com.unity.visualeffectgraph/Shaders/RenderPipeline/Universal/VFXDefines.hlsl'
+  api=4 insize=4790 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=6771 outsize=6773 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Impact.vfx(16): failed to open source file: 'Packages/com.unity.visualeffectgraph/Shaders/RenderPipeline/Universal/VFXDefines.hlsl'
+  api=4 insize=6773 outsize=0 ok=0
+Cmd: preprocess
+  insize=44872 outsize=606 ok=1
+Cmd: preprocessCompute
+  insize=7114 outsize=7116 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Impact.vfx(15): failed to open source file: 'Packages/com.unity.visualeffectgraph/Shaders/RenderPipeline/Universal/VFXDefines.hlsl'
+  api=4 insize=7116 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=7124 outsize=7126 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Impact.vfx(16): failed to open source file: 'Packages/com.unity.visualeffectgraph/Shaders/RenderPipeline/Universal/VFXDefines.hlsl'
+  api=4 insize=7126 outsize=0 ok=0
+Cmd: preprocess
+  insize=44534 outsize=607 ok=1
+Cmd: preprocessCompute
+  insize=4820 outsize=4822 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Impact.vfx(13): failed to open source file: 'Packages/com.unity.visualeffectgraph/Shaders/RenderPipeline/Universal/VFXDefines.hlsl'
+  api=4 insize=4822 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=6451 outsize=6453 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Impact.vfx(15): failed to open source file: 'Packages/com.unity.visualeffectgraph/Shaders/RenderPipeline/Universal/VFXDefines.hlsl'
+  api=4 insize=6453 outsize=0 ok=0
+Cmd: preprocess
+  insize=35902 outsize=652 ok=1
+Cmd: preprocessCompute
+  insize=1900 outsize=1902 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Impact.vfx(11): failed to open source file: 'Packages/com.unity.visualeffectgraph/Shaders/RenderPipeline/Universal/VFXDefines.hlsl'
+  api=4 insize=1902 outsize=0 ok=0
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: preprocess
+  insize=64782 outsize=3161 ok=1
+Cmd: preprocess
+  insize=64456 outsize=3182 ok=1
+Cmd: preprocess
+  insize=42623 outsize=1753 ok=1
+Cmd: preprocess
+  insize=41180 outsize=1739 ok=1
+Cmd: preprocess
+  insize=62564 outsize=3308 ok=1
+Cmd: preprocess
+  insize=59051 outsize=2879 ok=1
+Cmd: preprocess
+  insize=68696 outsize=3473 ok=1
+Cmd: preprocess
+  insize=61245 outsize=3261 ok=1
+Cmd: preprocess
+  insize=56960 outsize=3106 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
